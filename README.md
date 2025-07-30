@@ -150,4 +150,5 @@ Feedstock Maintainers
 * [@erikbern](https://github.com/erikbern/)
 * [@freider](https://github.com/freider/)
 * [@mwaskom](https://github.com/mwaskom/)
+* [@thomasjpfan](https://github.com/thomasjpfan/)
 
