@@ -1,5 +1,5 @@
 {% set name = "synchronicity" %}
-{% set version = "0.12.2" %}
+{% set version = "0.12.3" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/synchronicity-{{ version }}.tar.gz
-  sha256: 6fd605a5035d1ec74ce48fffaca80ea00345c84ca34223914e2436fb4f162ff9
+  sha256: 0d4228b85eaf2805f23b4615b2039a9d24ea811646e2d9f8d0c033094eb85841
 
 build:
   noarch: python
